@@ -2,7 +2,7 @@
 Its a mod for Gorilla Tag that lets you flood the map. 
 
 There are some limitations:
-1. Basically if the mod is enabled from the haunted menu or Computer Interface and you join a lobby, your game will quit. If it is disabled on both, you will be allowed in publics. (It was not disabling properly when you went into a public :/ )
+1. Basically if the mod is enabled from the haunted menu or Computer Interface and you join a non-modded lobby, your game will quit. If it is disabled on both, you will be allowed in publics. (It was not disabling properly when you went into a public. Don't judge my hacky fixes ok?)
 2. Might not be very preformant, idk tho
 
 Download Here:
