@@ -6,7 +6,9 @@ There are some limitations:
 2. Might not be very preformant, idk tho
 
 Download Here:
-
+1. https://github.com/Nicktender/Flooded/releases/tag/release
+1. (DON'T DOWNLOAD SOURCE UNLESS YOU WANNA PEEK AT THE CODE)
+1. (DON'T COMPLAIN ABOUT ANY CRAPPY CODE)
 
 Credits:
-Thanks to Trout_Youtube (youtube.com/Trout_Youtube) for requesting this mod
+1. Thanks to Trout_Youtube (https://www.youtube.com/Trout_Youtube) for requesting this mod
